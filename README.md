@@ -1,5 +1,5 @@
 # FFMPEG Installer 
-Installs and creates a directory for ffmpeg so that yt-dlp works with high quality videos. 
+Installs and creates a directory for [ffmpeg](https://www.ffmpeg.org/download.html) so that yt-dlp works with high quality videos. 
 
 
 
